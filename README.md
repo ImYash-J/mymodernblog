@@ -4,7 +4,7 @@ A clean, responsive blog website built with Bootstrap 5. Features a modern layou
 
 ## Demo
 
-Check out the live demo here: [MyModernBlog Demo](https://imyash-j.github.io/mymodernblog/)
+Check out the live demo here: [Demo](https://imyash-j.github.io/mymodernblog/)
 
 ## Features
 
